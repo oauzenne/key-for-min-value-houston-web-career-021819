@@ -1,5 +1,4 @@
 def key_for_min_value(name_hash)
-
   prev = 0
   lowKey = {}
   if name_hash.empty? 
